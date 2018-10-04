@@ -1,15 +1,8 @@
 {
-  "getCityByProvince": [
+  "getCityByProvince":
     {
-      "value": {
-        "output": "{replies:title=City,Jakarta Pusat@===@Jakarta Pusat,Jakarta Pusat@===@Jakarta Pusat,Jakarta Selatan@===@Jakarta Selatan}"
-      },
-      "next": false,
-      "success": false,
-      "repeat": false,
-      "agent": false
-    }
-  ],
+      "Ticket01"
+    },
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
