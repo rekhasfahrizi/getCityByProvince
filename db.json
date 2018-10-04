@@ -4,7 +4,7 @@
       "value": {
         "output": "{replies:title=City,Jakarta Pusat@===@Jakarta Pusat,Jakarta Pusat@===@Jakarta Pusat,Jakarta Selatan@===@Jakarta Selatan}"
       },
-      "ticketNo": "ticket123",
+      "next": false,
       "success": false,
       "repeat": false,
       "agent": false
