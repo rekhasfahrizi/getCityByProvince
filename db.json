@@ -1,16 +1,27 @@
 {
   "getCityByProvince":
     {
-      "ticketNo": "ticket123"
+      "value": {
+        "output": "{replies:title=City,Jakarta Pusat@===@Jakarta Pusat,Jakarta Pusat@===@Jakarta Pusat,Jakarta Selatan@===@Jakarta Selatan}"
+      },
+      "ticketNo": false,
+      "success": false,
+      "repeat": false,
+      "agent": false
     },
   "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+    { "ticketNo": 1, "dealerName": "some comment", "postId": 1 },
+    { "ticketNo": 2, "dealerName": "some comment", "postId": 1 }
   ],
   "profile": {
     "name": "typicode"
   }
 }
+
+
+
+
+
 
 
 
